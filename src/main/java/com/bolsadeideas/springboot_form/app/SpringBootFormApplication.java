@@ -1,4 +1,4 @@
-package com.bolsadeideas.springboot.app.springbootform;
+package com.bolsadeideas.springboot_form.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.bolsadeideas.springboot.app.springbootform;
+package com.bolsadeideas.springboot_form.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
